@@ -11,7 +11,7 @@
 📚 I am currently pursuing a Bachelor's degree in Computer Engineering at UADE.
 💼 I work as an Operations Analyst at American Express.
 🌟 Main languages: Python, Java.
-🚩 <a href="https://drive.google.com/file/d/1cUDpjJx5xp3QUJmtyWfdhTYjRhVeeQnt/view?usp=drive_link" target="_blank">MY RESUME.</a>
+🚩 <a href="https://drive.google.com/file/d/1DjtURQGGGuFE9LdJ7mskfNOY-S8vUPhx/view?usp=drive_link" target="_blank">MY RESUME.</a>
 </pre>
 
 ## 🤝 Connect with me
