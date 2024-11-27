@@ -15,4 +15,11 @@
 🌟 Main languages: Python, Java.
 🚩 <a href="https://drive.google.com/file/d/1OL-pYjC8jb3u3bbqLswQooZkah4ExeZf/view?usp=sharing" target="_blank">MY RESUME.</a>
 </pre>
-<hr>
+
+## 🤝 Connect with me
+
+<p align="center">
+	<a href="mailto:mirukibs12.km@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="https://www.linkedin.com/in/kibwana-miruru-322225232/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="https://www.instagram.com/slikshotcapture/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
+</p>
