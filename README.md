@@ -8,11 +8,10 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 <pre>
-💻 I am a self taught Full Stack Developer and a Machine Learning Developer
+💻 I am a self taught Full Stack Developer and a Machine Learning Developer.
 📚 I am currently pursuing a Bachelor's degree in Computer Engineering at UADE.
-📝 I have a strong interest in Data Science and Artificial Intelligence
-🔭 Working on Deep Learning & Machine Learning
-🌱 Learning about Computer Vision and Machine Learning stuff
+📝 I have a strong interest in Data Science and Artificial Intelligence.
+🌱 Learning about Computer Vision and Machine Learning stuff.
 🌟 Main languages: Python, Java.
 🚩 <a href="https://drive.google.com/file/d/1OL-pYjC8jb3u3bbqLswQooZkah4ExeZf/view?usp=sharing" target="_blank">MY RESUME.</a>
 </pre>
